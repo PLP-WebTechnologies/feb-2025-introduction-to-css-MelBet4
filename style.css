@@ -1,0 +1,19 @@
+h2{
+    color: black;
+    font-size: 30px;
+    font-weight: 20px;
+    font-family: "Garamond", serif;
+    font-style:italic;
+}
+
+.highlight{
+    font-family: "Playfair Display", serif;
+    border: 2px solid black;
+    padding: 5px;
+    background-color:beige;
+}
+
+#img-format{
+    width: 400px;
+    border: 1px solid black;
+}
